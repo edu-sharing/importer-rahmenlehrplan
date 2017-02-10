@@ -1,0 +1,522 @@
+[	
+	{
+		"id"	: "BIO-K3",
+		"image" : "BIO-K3.png",
+		"color" : "#60998f"
+	},
+	{
+		"id"	: "BIO-K4",
+		"image" : "BIO-K4.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-IT",
+		"image" : "C-IT.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-BIO-3-1",
+		"image" : "C-BIO-3-1.png",
+		"color" : "#759cb7"
+	},
+	{
+		"id"	: "C-BIO-3-4",
+		"image" : "C-BIO-3-4.png",
+		"color" : "#759cb7"
+	},
+	{
+		"id"	: "C-BIO-3-5",
+		"image" : "C-BIO-3-5.png",
+		"color" : "#692869"
+	},
+	{
+		"id"	: "C-BIO-3-7",
+		"image" : "C-BIO-3-7.png",
+		"color" : "#29685c"
+	},
+	{
+		"id"	: "C-BIO-3-8",
+		"image" : "C-BIO-3-8.png",
+		"color" : "#29685c"
+	},
+	{
+		"id"	: "C-BIO-3-9",
+		"image" : "C-BIO-3-9.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "C-BIO",
+		"image" : "C-BIO.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-CH-3-1-1",
+		"image" : "C-CH-3-1-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-1-2",
+		"image" : "C-CH-3-1-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-10-1",
+		"image" : "C-CH-3-10-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-10-2",
+		"image" : "C-CH-3-10-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-11-1",
+		"image" : "C-CH-3-11-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-11-2",
+		"image" : "C-CH-3-11-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-12-1",
+		"image" : "C-CH-3-12-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-12-2",
+		"image" : "C-CH-3-12-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-2-1",
+		"image" : "C-CH-3-2-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-2-2",
+		"image" : "C-CH-3-2-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-3-1",
+		"image" : "C-CH-3-3-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-3-2",
+		"image" : "C-CH-3-3-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-4-1",
+		"image" : "C-CH-3-4-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-4-2",
+		"image" : "C-CH-3-4-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-5-1",
+		"image" : "C-CH-3-5-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-5-2",
+		"image" : "C-CH-3-5-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-6-1",
+		"image" : "C-CH-3-6-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-6-2",
+		"image" : "C-CH-3-6-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-7-1",
+		"image" : "C-CH-3-7-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-7-2",
+		"image" : "C-CH-3-7-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-8-1",
+		"image" : "C-CH-3-8-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-8-2",
+		"image" : "C-CH-3-8-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-CH-3-9-1",
+		"image" : "C-CH-3-9-1.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-CH-3-9-2",
+		"image" : "C-CH-3-9-2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "C-DE-3-WP",
+		"image" : "C-DE-3-WP.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "C-DE",
+		"image" : "C-DE.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-CH",
+		"image" : "C-CH.png",
+		"color" : "#759cb7"
+	},
+	{
+		"id"	: "C-EL",
+		"image" : "C-EL.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-EN",
+		"image" : "C-EN.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-ES",
+		"image" : "C-ES.png",
+		"color" : "#692426"
+	},
+	{
+		"id"	: "C-FR",
+		"image" : "C-FR.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-FS",
+		"image" : "C-FS.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-GE-3-3",
+		"image" : "C-GE-3-3.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "C-GE",
+		"image" : "C-GE.png",
+		"color" : "#60998f"
+	},
+	{
+		"id"	: "C-GEO-3-2",
+		"image" : "C-GEO-3-2.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-3",
+		"image" : "C-GEO-3-3.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-4",
+		"image" : "C-GEO-3-4.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-5",
+		"image" : "C-GEO-3-5.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-6",
+		"image" : "C-GEO-3-6.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-7",
+		"image" : "C-GEO-3-7.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-8",
+		"image" : "C-GEO-3-8.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-GEO-3-9-1",
+		"image" : "C-GEO-3-9-1.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-GEO-3-9-2",
+		"image" : "C-GEO-3-9-2.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-GEO-3-9-3",
+		"image" : "C-GEO-3-9-3.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-GEO-3-9",
+		"image" : "C-GEO-3-9.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "C-GEO",
+		"image" : "C-GEO.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "C-HE",
+		"image" : "C-HE.png",
+		"color" : "#537997"
+	},
+	{
+		"id"	: "C-JP",
+		"image" : "C-JP.png",
+		"color" : "#692426"
+	},
+	{
+		"id"	: "C-KU-3-6",
+		"image" : "C-KU-3-6.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "C-KU",
+		"image" : "C-KU.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "C-MA-I1-5",
+		"image" : "C-MA-I1-5.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "C-MA",
+		"image" : "C-MA.png",
+		"color" : "#32662a"
+	},
+	{
+		"id"	: "C-NW",
+		"image" : "C-NW.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-NW56-3-6-3-4",
+		"image" : "C-NW56-3-6-3-4.png",
+		"color" : "#32662a"
+	},
+	{
+		"id"	: "C-NW56-3-6-3",
+		"image" : "C-NW56-3-6-3.png",
+		"color" : "#29685C"
+	},
+	{
+		"id"	: "C-NW56",
+		"image" : "C-NW56.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-PL",
+		"image" : "C-PL.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "C-PT",
+		"image" : "C-PT.png",
+		"color" : "#692426"
+	},
+	{
+		"id"	: "C-RU",
+		"image" : "C-RU.png",
+		"color" : "#759cb7"
+	},
+	{
+		"id"	: "C-SW",
+		"image" : "C-SW.png",
+		"color" : "#692426"
+	},
+	{
+		"id"	: "C-TR",
+		"image" : "C-TR.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "C-ZH",
+		"image" : "C-ZH.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "CH-K3",
+		"image" : "CH-K3.png",
+		"color" : "#60998f"
+	},
+	{
+		"id"	: "CH-K4",
+		"image" : "CH-K4.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "DE-K1-1",
+		"image" : "DE-K1-1.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "DE-K1-2",
+		"image" : "DE-K1-2.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "DE-K1-3",
+		"image" : "DE-K1-3.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "DE-K1",
+		"image" : "DE-K1.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "DE-K2-1",
+		"image" : "DE-K2-1.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "DE-K2-2",
+		"image" : "DE-K2-2.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "DE-K2-3",
+		"image" : "DE-K2-3.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "DE-K2",
+		"image" : "DE-K2.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "DE-K3",
+		"image" : "DE-K3.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "DE-K4-3",
+		"image" : "DE-K4-3.png",
+		"color" : "#32662a"
+	},
+	{
+		"id"	: "DE-K4",
+		"image" : "DE-K4.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "EL-K3",
+		"image" : "EL-K3.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "EN-K3",
+		"image" : "EN-K3.png",
+		"color" : "#a89b39"
+	},
+	{
+		"id"	: "GE-K2",
+		"image" : "GE-K2.png",
+		"color" : "#759cb7"
+	},
+	{
+		"id"	: "GE-K4",
+		"image" : "GE-K4.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "GEO-K4",
+		"image" : "GEO-K4.png",
+		"color" : "#60998f"
+	},
+	{
+		"id"	: "GEO-K5-3",
+		"image" : "GEO-K5-3.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "GEO-K5",
+		"image" : "GEO-K5.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "KU-K1",
+		"image" : "KU-K1.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "KU-K2",
+		"image" : "KU-K2.png",
+		"color" : "#976097"
+	},
+	{
+		"id"	: "KU-K3",
+		"image" : "KU-K3.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "MA-K",
+		"image" : "MA-K.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "MA-L",
+		"image" : "MA-L.png",
+		"color" : "#29685c"
+	},
+	{
+		"id"	: "MA-L2",
+		"image" : "MA-L2.png",
+		"color" : "#e6b247"
+	},
+	{
+		"id"	: "MA-L4",
+		"image" : "MA-L4.png",
+		"color" : "#699761"
+	},
+	{
+		"id"	: "MA-L5",
+		"image" : "MA-L5.png",
+		"color" : "#692869"
+	},
+	{
+		"id"	: "NW-K3",
+		"image" : "NW-K3.png",
+		"color" : "#60998f"
+	},
+	{
+		"id"	: "NW-K4",
+		"image" : "NW-K4.png",
+		"color" : "#975b5d"
+	},
+	{
+		"id"	: "NW56-K3",
+		"image" : "NW56-K3.png",
+		"color" : "#60998f"
+	},
+	{
+		"id"	: "NW56-K4",
+		"image" : "NW56-K4.png",
+		"color" : "#975b5d"
+	}
+]
